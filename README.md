@@ -16,6 +16,6 @@ This repository contains tools for building and evaluating a deep learning model
 
 # Results
 
-The notebook includes visualizations of training progress and evaluation metrics to help you understand the model's performance.
+There are provided visualizations of training progress and evaluation metrics to help you understand the model's performance.
 
 
